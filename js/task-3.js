@@ -1,5 +1,5 @@
 function filterArray(numbers, value) {
-  const newMas = [];
+  let newMas = [];
   if (numbers > value) {
   }
 }
